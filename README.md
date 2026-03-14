@@ -9,7 +9,7 @@ An intelligent tool combining **ML scoring** and **LLM feedback** to help you op
 - Clean Streamlit web interface
 
 ## 🛠️ Tech Stack
-- Python, Streamlit, Scikit-learn, Anthropic Claude API, PyPDF2
+- Python, Streamlit, Scikit-learn, Groq LLaMA 3.3 API, PyPDF2
 
 ## ⚙️ Run Locally
 ```bash
