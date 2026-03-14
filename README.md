@@ -18,4 +18,4 @@ streamlit run app.py
 ```
 
 ## 🔑 API Key
-Get your free Anthropic key at: https://console.anthropic.com
+Get your free Groq API key at: https://console.groq.com
